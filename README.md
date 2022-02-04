@@ -1,2 +1,2 @@
 # huggingface-transformer-exploration
-Hands-on code material for getting started with huggingface transformers.
+This repository contains hands-on code material for getting started with huggingface transformers.
